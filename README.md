@@ -1,6 +1,5 @@
-ABOUT ME
- class sarah:
-     def __init__(self):
+class sarah:
+ def __init__(self):
         self.username = 'ssin0045'
         self.name = 'Sarah Singh'
         self.position = 'Data Engineer'
